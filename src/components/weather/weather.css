@@ -1,0 +1,9 @@
+.main-cont{
+    width:30%;
+    height: 50Vh;
+    
+    margin: 20px auto;
+    background-color: lightskyblue;
+    text-align: center;
+    padding: 12px 0;
+}
